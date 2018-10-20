@@ -1,8 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router';
-import '../../../css/site.css';
 
-class HomePage extends React.Component {
+class Panel extends React.Component {
   render() {
     return (
       <div>
